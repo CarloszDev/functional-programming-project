@@ -4,7 +4,7 @@
 
 O objetivo deste projeto é desenvolver um sistema em Python para análise de desempenho de alunos, aplicando exclusivamente conceitos e técnicas do paradigma de programação funcional. O sistema realiza cálculos de médias, determina o status de aprovação e extrai estatísticas de uma lista de alunos, demonstrando o uso de funções puras, imutabilidade, funções de alta ordem, closures, lambdas e list comprehensions.
 
-## 2. Equipe (Fictícia)
+## 2. Equipe
 
 | Nome Completo   | Matrícula    | Papel no Projeto                  |
 | --------------- | ------------ | --------------------------------- |
