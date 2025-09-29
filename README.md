@@ -10,8 +10,7 @@ O objetivo deste projeto é desenvolver um sistema em Python para análise de de
 | --------------- | ------------ | --------------------------------- |
 | José Danilo de Sousa       | 2326306    | Gerente de Projeto e Documentação |
 | Carlos Cauan     | 2326258    | Desenvolvedor Principal (Backend) |
-| Carla Dias      | 202510103    | Engenheira de Testes (QA)         |
-| Daniel Souza    | 202510104    | Revisor de Código e Deploy        |
+
 
 ## 3. Requisitos do Projeto
 
