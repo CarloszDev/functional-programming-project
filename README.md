@@ -8,9 +8,10 @@ O objetivo deste projeto é desenvolver um sistema em Python para análise de de
 
 | Nome Completo   | Matrícula    | Papel no Projeto                  |
 | --------------- | ------------ | --------------------------------- |
-| José Danilo de Sousa       | 2326306    | Gerente de Projeto e Documentação |
+| José Danilo de Sousa       | 2326306    | Gerente de Projeto |
 | Carlos Cauan     | 2326258    | Desenvolvedor Principal (Backend) |
 | Jonarta Santiago Soares     | 2327349    | Desenvolvedor Secundario (Auxiliar) |
+| Igor Davi Viera Dos Santos     | 2326203    | Documentacao |
 
 
 ## 3. Requisitos do Projeto
